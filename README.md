@@ -1,2 +1,2 @@
 # Spider-Tronix-Tasks
-Code for the Spider Tronix Embedded domain tasks
+Code for some cool Embedded Projects with Arduino
